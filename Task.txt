@@ -1,0 +1,5 @@
+Uploading files to the server
+
+Download the audio files to the music folder on the site. Without fail, they all must pass a security check.
+Using the functions for working with files and directories, as well as using the audio tag, output players to play all music files from the music folder.
+Note: On one page there will be a form for downloading new audio files, and many players for playing what is already loaded.
